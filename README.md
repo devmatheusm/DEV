@@ -1,4 +1,4 @@
-![Header](./github_banner.png)
+![Header](./github_banner2.png)
 
 I am Brazilian.
 I'm currently studying computer science and I'm looking to learn in the area of ​​programming.
