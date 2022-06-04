@@ -1,4 +1,4 @@
-
+![Header](./your-header-image-name.png)
 
 I am Brazilian.
 I'm currently studying computer science and I'm looking to learn in the area of ​​programming.
