@@ -24,15 +24,6 @@ I'm learning these programming languages, but I'm open to new languages:
 <a href="https://twitter.com/%F0%9D%94%8F%F0%9D%94%B2%F0%9D%94%AA%F0%9D%94%A6%E2%9B%A7#9166"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=SirIllumiGot">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://metrics.lecoq.io/SirIllumiGot"><p>
