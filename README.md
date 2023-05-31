@@ -5,7 +5,7 @@ I'm currently studying computer science and I'm looking to learn in the area of 
 I'm learning these programming languages, but I'm open to new languages:
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning C++, JS, HTML 5, CSS3</p>
+<p>🌱 I'm currently learning C++, JS, HTML 5, CSS3, C#</p>
 <p>📫 How to reach me? matheuswork04@gmail.com</p>
 
 ## 💻 Skills
